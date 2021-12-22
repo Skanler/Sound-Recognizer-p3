@@ -1,0 +1,30 @@
+.main_div{
+    background-color: rgb(50, 141, 245)
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.header_div h2{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 2px;
+}
+.copyright_footer{
+    position:fixed;
+    bottom : 0;
+    font-size: 50;
+    background-color :rgb(50, 141, 245);
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(38, 117, 163);
+}
+.main_div button{
+    margin-top: 20px;
+    width: 130px;
+    font-size: 35px;
+}
+.header_div{
+    height: 290px;
+    top: 0;
+}
